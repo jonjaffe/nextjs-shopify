@@ -14,7 +14,7 @@ import '../blocks/ProductView/ProductView.builder'
 import '../blocks/CloudinaryImage/CloudinaryImage.builder'
 
 Builder.register('insertMenu', {
-  name: 'Shopify Collections Components',
+  name: 'Collections Components',
   items: [
     { name: 'CollectionBox', label: 'Collection stuff' },
     { name: 'ProductCollectionGrid' },
@@ -23,7 +23,7 @@ Builder.register('insertMenu', {
 })
 
 Builder.register('insertMenu', {
-  name: 'Shopify Products Components',
+  name: 'Products Components',
   items: [
     { name: 'ProductGrid' },
     { name: 'ProductBox' },
